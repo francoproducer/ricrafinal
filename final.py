@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 
+
 # Cargar las bases de datos
 file_path_1 = '1.csv'  # Cambia el nombre si es necesario
 file_path_2 = '2.csv'  # Cambia el nombre si es necesario
