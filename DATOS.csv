@@ -1,0 +1,99 @@
+FOTEX,TIPO DE DISPOSITIVO,MODELO,COSTO_E2, COSTO_PCR,COSTO_CINEMARENTAL
+1.jpg,CAMARA,BlackMagic Mini Ursa Pro 4.6K, S/ 500.00 , - , - 
+2.jpg,CAMARA,Sony Cinema Line FX30, S/ 350.00 , - , S/ 300.00 
+3.jpg,CAMARA,Sony A7S III, S/ 350.00 , - , S/ 250.00 
+4.jpg,CAMARA,Sony PXW-Z190, S/ 300.00 , - , - 
+5.jpg,CAMARA,Sony A7C Mark II, S/ 250.00 , - , - 
+6.jpg,CAMARA,BlackMagic 6K Full Frame, S/ 240.00 , - , S/ 300.00 
+7.jpg,CAMARA,Videocamara Sony PXW-Z150, S/ 220.00 , - , - 
+8.jpg,CAMARA,Canon EOS 5D Mark IV, S/ 200.00 , - , - 
+9.jpg,CAMARA,Camara PTZ 4K NDI, S/ 180.00 , - , - 
+10.jpg,CAMARA,BlackMagic Pocket Cinema Camera 4K, S/ 150.00 , - , - 
+11.jpg,CAMARA,Sony ZV-E10, S/ 120.00 , - , - 
+12.jpg,CAMARA,Sony Alpha A6000 Kit, S/ 90.00 , - , - 
+13.jpg,CAMARA,Camara 360° Insta360 X3, S/ 100.00 , - , S/ 120.00 
+14.jpg,CAMARA,Camara miniatura SDI Marshall CV503, S/ 80.00 , - , - 
+15.jpg,LENTES,Tamron 24mm F2.8 Di III OSD M 1:2 para Sony E, S/ 50.00 , - , - 
+16.jpg,LENTES,Sigma Art 24-70 F2.8 para Canon, S/ 150.00 , - , S/ 180.00 
+17.jpg,LENTES,Tilt 50mm F1.4 TTArtisan para Sony Full Frame, S/ 50.00 , - , S/ 200.00 
+18.jpg,LENTES,optica Sony G Master 70-200mm F/2.8 GM OSS, S/ 200.00 , - , - 
+19.jpg,LENTES,Sigma 50mm F1.4 DG DN Art para Sony, S/ 150.00 , - , - 
+20.jpg,LENTES,Sigma 24-70mm F2.8 DG DN Art para Sony, S/ 150.00 , - , - 
+21.jpg,LENTES,optica Tamron 70-300mm F4.5-6.3 Di III RXD para Sony, S/ 80.00 , - , - 
+22.jpg,LENTES,Sony FE 70-200mm F4 G OSS, S/ 150.00 , - , - 
+23.jpg,LENTES,Sigma MACRO 105mm F2.8 DG DN Art para Sony, S/ 50.00 , - , - 
+24.jpg,LENTES,Sigma 85mm F1.4 DG HSM Art para Canon, S/ 150.00 , - , - 
+25.jpg,LENTES,Sigma 14-24mm F2.8 DG DN Art para Sony, S/ 120.00 , - , - 
+26.jpg,LENTES,Kit de 6 opticas Rokinon cine DS, S/ 350.00 , - , S/ 350.00 
+27.jpg,LENTES,Rokinon Cine DS 85mm T1.5, S/ 80.00 , - , S/ 80.00 
+28.jpg,LENTES,Rokinon Cine DS 50mm T1.5, S/ 80.00 , - , S/ 80.00 
+29.jpg,LENTES,Rokinon Cine DS 35mm T1.5, S/ 80.00 , - , S/ 80.00 
+30.jpg,LENTES,Rokinon Cine DS 24mm T1.5, S/ 80.00 , - , S/ 80.00 
+31.jpg,LENTES,Rokinon Cine DS 135mm T2.2, S/ 80.00 , - , S/ 80.00 
+32.jpg,LENTES,Rokinon Cine DS 14mm T3.1, S/ 80.00 , - , S/ 80.00 
+33.jpg,LENTES,Canon EF 70-200mm f/2.8L IS II USM, S/ 140.00 , - , - 
+34.jpg,ILUMINACION,Modificador Parabolico SmallRig 85cm, S/ 50.00 , - , - 
+35.jpg,ILUMINACION,Panel RGB Godox LP600R, S/ 50.00 , - , S/ 400.00 
+36.jpg,ILUMINACION,Lantern ball softbox 90cm Aputure, S/ 40.00 , - , - 
+37.jpg,ILUMINACION,Lantern ball softbox 85cm Zhiyun, S/ 35.00 , - , - 
+38.jpg,ESTACION DE ENERGIA,Estacion de Energia Portatil EcoFlow, S/ 150.00 , - , - 
+39.jpg,ILUMINACION,Led RGB Zhiyun Fiveray M20C, S/ 50.00 , - , S/ 100.00 
+40.jpg,ILUMINACION,Octabox 120cm Godox, S/ 20.00 , - , S/ 30.00 
+41.jpg,MICROFONO,Microfono Shotgun Sennheiser MKE 600, S/ 90.00 , - , - 
+42.jpg,BOOM,Caña boom Neewer fibra de carbono, S/ 25.00 , - , S/ 60.00 
+43.jpg,ACCESORIO DE MICROFONO,Brazo Para Microfono Fifine BM63 White, S/ 15.00 , - , S/ 20.00 
+44.jpg,MICROFONO,Microfono Zoom ZDM1 kit, S/ 50.00 , - , - 
+45.jpg,MICROFONO,Microfono de condensador AudioTechnica AT2035 Kit, S/ 70.00 , - , - 
+46.jpg,MICROFONO,Microfono de condensador cardioide AudioTechnica AT2035, S/ 50.00 , - , - 
+47.jpg,AUDIFONOS,Audifonos Sony MDR 7506, S/ 15.00 , - ,
+48.jpg,CAMARA,ARRI Alexa XT Plus, - , A consultar ,
+49.jpg,CAMARA,Red Epic X, - , A consultar ,
+50.jpg,CAMARA,Red One Mysterium X, - , A consultar ,
+51.jpg,CAMARA,Canon 5D Mark III, - , A consultar ,
+52.jpg,CAMARA,16mm Bolex H16, - , A consultar ,
+53.jpg,LENTES,Arri Alura Fujinon 45-250mm T2.6, - , A consultar , - 
+54.jpg,LENTES,Canon 16-35mm F2.8L II USM, - , A consultar , - 
+55.jpg,LENTES,Red Pro Prime 18-50mm T3, - , A consultar , - 
+56.jpg,LENTES,Carl Zeiss CP.2 50mm Makro T2.1, - , A consultar , - 
+57.jpg,LENTES,Carl Zeiss 10mm T2.1, - , A consultar , - 
+58.jpg,LENTES,Red Pro Prime 25mm, - , A consultar , - 
+59.jpg,LENTES,Red Pro Prime 35mm, - , A consultar , - 
+60.jpg,LENTES,Red Pro Prime 50mm, - , A consultar , - 
+61.jpg,LENTES,Red Pro Prime 85mm, - , A consultar , - 
+62.jpg,LENTES,Red Pro Prime 100mm T1.8, - , A consultar , - 
+63.jpg,LENTES,Carl Zeiss Compact Prime CP2 15mm T2.9, - , A consultar , - 
+64.jpg,LENTES,Carl Zeiss Compact Prime CP2 25mm, - , A consultar , S/ 80.00 
+65.jpg,LENTES,Carl Zeiss Compact Prime CP2 35 mm, - , A consultar , - 
+66.jpg,LENTES,Carl Zeiss Compact Prime CP2 50mm Macro, - , A consultar , - 
+67.jpg,LENTES,Carl Zeiss Compact Prime CP2 85mm, - , A consultar , - 
+68.jpg,LENTES,Carl Zeiss Compact Prime CP2 135mm T2.1, - , A consultar , - 
+69.jpg,ILUMINACION,Kino Flo 4 tubos - 4 pies, - , A consultar , A consultar 
+70.jpg,ILUMINACION,Kino Flo 4 tubos - 2 pies, - , A consultar , A consultar 
+71.jpg,ILUMINACION,Fresnel 300w, - , A consultar , A consultar 
+72.jpg,ILUMINACION,Fresnel 650w, - , A consultar , A consultar 
+73.jpg,ILUMINACION,"Fresnel 1,000w", - , A consultar , A consultar 
+74.jpg,ILUMINACION,"Fresnel 2,000w", - , A consultar , A consultar 
+75.jpg,ILUMINACION,"Fresnel 5,000w", - , A consultar , A consultar 
+76.jpg,ILUMINACION,"Open Face 2,000w", - , A consultar , A consultar 
+77.jpg,ILUMINACION,"Par 64 1,000w", - , A consultar , A consultar 
+78.jpg,ILUMINACION,"Space Light 6 x 1,000w", - , A consultar , A consultar 
+79.jpg,ILUMINACION,Joker 400w, - , A consultar , A consultar 
+80.jpg,ILUMINACION,Joker 800w, - , A consultar , A consultar 
+81.jpg,ILUMINACION,"Joker 1,600w", - , A consultar , A consultar 
+82.jpg,ILUMINACION,HMI 2.5kw Par, - , A consultar , A consultar 
+83.jpg,ILUMINACION,HMI 4kw Par, - , A consultar , A consultar 
+84.jpg,ILUMINACION,HMI 4kw Fresnel, - , A consultar , A consultar 
+85.jpg,ILUMINACION,HMI 6kw Par, - , A consultar , A consultar 
+86.jpg,CAMARA,ARRI ALEXA MINI, - , - ," S/ 1,200.00 "
+87.jpg,CAMARA,RED RAVEN, - , - ," S/ 1,000.00 "
+88.jpg,CAMARA,Sony Cinema Line FX6, - , - , S/ 650.00 
+89.jpg,CAMARA,Sony Cinema Line FX3, - , - , S/ 450.00 
+90.jpg,CAMARA,Sony A7SIV, - , - , S/ 300.00 
+91.jpg,CAMARA,Sony A7SIII, - , - , S/ 250.00 
+92.jpg,CAMARA,Sony A7SII, - , - , S/ 200.00 
+93.jpg,CAMARA,Canon T5I, - , - , S/ 90.00 
+94.jpg,CAMARA,Nikon D3200, - , - , S/ 60.00 
+95.jpg,MICROFONO,ZOOM H1N, - , - , S/ 40.00 
+96.jpg,MICROFONO,ZOOM H5, - , - , S/ 60.00 
+97.jpg,MICROFONO,ZOOM H6 BLACK, - , - , S/ 80.00 
+98.jpg,MICROFONO,ZOOM H8, - , - , S/ 120.00 
