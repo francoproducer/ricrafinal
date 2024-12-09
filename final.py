@@ -23,7 +23,7 @@ db2['EMPRESA'] = db2['EMPRESA'].str.strip().str.upper()
 
 # Título de la aplicación
 # Usamos Markdown para crear un título centralizado y visualmente atractivo
-st.markdown("<h1 style='text-align: center;'>Catálogo de Equipos Audiovisuales</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>El POINT Audiovisual</h1>", unsafe_allow_html=True)
 
 # Paso 1: Seleccionar el tipo de dispositivo
 # Obtenemos los tipos únicos de dispositivos del archivo de productos y los mostramos en un menú desplegable
